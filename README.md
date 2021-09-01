@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <a href="[https://simpleicons.org/?q=python]" target="_blank"><img src="https://img.shields.io/badge/[Python]-[#3776AB]?style=flat-square&logo=[Python]&logoColor=white"/></a>
-
+<a href="[https://simpleicons.org/?q=tensorflow]" target="_blank"><img src="https://img.shields.io/badge/[TensorFlow]-[#FF6F00]?style=flat-square&logo=[TensorFlow]&logoColor=white"/></a>
 <!--
 **kimsoosoo0928/kimsoosoo0928** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
