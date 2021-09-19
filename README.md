@@ -4,6 +4,8 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=timeAuto&height=300&section=header&text=AI-Engineer%20&fontSize=90)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimsoosoo0928&show_icons=true&theme=dark)
+	
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kimsoosoo0928)](https://github.com/anuraghazra/github-readme-stats)
                                                     
 [![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white)](github.com/Joowon0220/TODO-List) [![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white)](github.com/Joowon0220/TODO-List) [![REACT](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black)](github.com/Joowon0220/TODO-List) [![DJANGO](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white)](github.com/Joowon0220/TODO-List) 
 
