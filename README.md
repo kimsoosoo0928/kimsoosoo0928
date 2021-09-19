@@ -9,7 +9,6 @@
 
 
 [![PANDAS](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)](github.com/Joowon0220/TODO-List) [![NUMPY](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=NumPy&logoColor=white)](github.com/Joowon0220/TODO-List) [![OPENCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white)](github.com/Joowon0220/TODO-List) 
-
 [![PYTHON](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)](github.com/Joowon0220/TODO-List) [![TF](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white)](github.com/Joowon0220/TODO-List) [![KERAS](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=Keras&logoColor=white)](github.com/Joowon0220/TODO-List) [![PYTORCH](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white)](github.com/Joowon0220/TODO-List) 
 [![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white)](github.com/Joowon0220/TODO-List)
  ---
