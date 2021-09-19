@@ -1,5 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=timeAuto&height=300&section=header&text=AI-Engineer%20&fontSize=90)
 
+<div align=center>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimsoosoo0928&show_icons=true&theme=dark)
 
                                                                 
@@ -13,8 +15,9 @@
 [![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white)](github.com/Joowon0220/TODO-List)
 
 
-  <div align=center>
+
 	
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza)](https://hits.seeyoufarm.com) 
 	
-  </div>
+  
+</div>
