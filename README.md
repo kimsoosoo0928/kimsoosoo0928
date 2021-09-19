@@ -13,12 +13,9 @@
 [![PYTHON](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)](github.com/Joowon0220/TODO-List) [![TF](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white)](github.com/Joowon0220/TODO-List) [![KERAS](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=Keras&logoColor=white)](github.com/Joowon0220/TODO-List) [![PYTORCH](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white)](github.com/Joowon0220/TODO-List) 
 [![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white)](github.com/Joowon0220/TODO-List)
 
-
-
-	
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza)](https://hits.seeyoufarm.com) 
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimsoosoo0928&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza)](https://hits.seeyoufarm.com) 
 	
   
 </div>
