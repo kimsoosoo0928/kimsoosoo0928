@@ -1,5 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=AI-Engineer%20&fontSize=90)
 
+                                                [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)                    
+
 [![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white)](github.com/Joowon0220/TODO-List) [![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white)](github.com/Joowon0220/TODO-List) [![REACT](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black)](github.com/Joowon0220/TODO-List) [![DJANGO](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white)](github.com/Joowon0220/TODO-List) 
 
 [![PANDAS](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)](github.com/Joowon0220/TODO-List) [![NUMPY](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=NumPy&logoColor=white)](github.com/Joowon0220/TODO-List) [![OPENCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white)](github.com/Joowon0220/TODO-List) 
