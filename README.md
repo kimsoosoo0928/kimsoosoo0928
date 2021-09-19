@@ -1,6 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=timeAuto&height=300&section=header&text=AI-Engineer%20&fontSize=90)
 
 <div align=center>
+	
+![header](https://capsule-render.vercel.app/api?type=Waving&color=timeAuto&height=300&section=header&text=AI-Engineer%20&fontSize=90)
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimsoosoo0928&show_icons=true&theme=dark)
 
