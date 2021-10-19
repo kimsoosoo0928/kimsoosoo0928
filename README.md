@@ -23,7 +23,7 @@
 ---
 	
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza)](https://hits.seeyoufarm.com) 
-
+	<h1> GAN 모델을 통한 MBTI별 남녀 연예인 평균 얼굴 생성 PROJECT </h1>
 <img width="80%" src="https://user-images.githubusercontent.com/85941113/137976188-e108a074-cdd1-4cd3-bfb3-dfcc80a94d16.jpg"/>
 
 
