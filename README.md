@@ -32,7 +32,7 @@
 	<img width="30%" src="https://user-images.githubusercontent.com/85941113/137978151-88b4c15d-dbba-4bdc-be2b-55df88665559.jpg"/>
 	<img width="30%" src="https://user-images.githubusercontent.com/85941113/137978919-9f8ec5b8-85ba-4d9b-8341-316348a40c1b.png"/>
 	<h3> 여러가지 변수를 통한 전력수요량예측 </h3>
-	<img width="30%" src="https://user-images.githubusercontent.com/85941113/137979543-6c6fd982-2a06-40d2-abab-9ce24bbdd163.png"/>
+	<img width="50%" src="https://user-images.githubusercontent.com/85941113/137979543-6c6fd982-2a06-40d2-abab-9ce24bbdd163.png"/>
 	<img width="30%" src="https://user-images.githubusercontent.com/85941113/137979580-6062a716-9c1e-412d-825f-7df5e22c8f79.png"/>
 	
 	
