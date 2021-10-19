@@ -2,8 +2,8 @@
 
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=timeAuto&height=300&section=header&text=Soo%20&fontSize=90)
 	<h1>Study</h1>
-	<div>2019.3-2021.8 숭실대학교 전자정보공학부 (편입)(졸업)</div>
-	<div>2021.5-2021.11 비트캠프 강남본원 AI 인공지능 개발자 양성과정 (수료)</div>
+	<div>2019.3-2021.8 숭실대학교 전자정보공학부 </div>
+	<div>2021.5-2021.11 비트캠프 강남본원 AI 인공지능 개발자 양성과정</div>
 	
 	<img width="80%" src="https://user-images.githubusercontent.com/85941113/137980362-7305e4a3-db93-40d5-8a95-bfeb3a39aa3e.jpg"/>
 	
