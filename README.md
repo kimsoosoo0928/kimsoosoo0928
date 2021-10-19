@@ -22,9 +22,9 @@
 
 	
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza)](https://hits.seeyoufarm.com) 
-	<h1> GAN 모델을 통한 MBTI별 남녀 연예인 평균 얼굴 생성 PROJECT </h1>
+	<h1> GAN 모델을 통한 MBTI별 남녀 연예인 평균 얼굴 생성 </h1>
 <img width="80%" src="https://user-images.githubusercontent.com/85941113/137976188-e108a074-cdd1-4cd3-bfb3-dfcc80a94d16.jpg"/>
-	<h2> StyleGAN2 with ADA를 통한 내 얼굴과 MBTI별 평균 얼굴과의 합성 결과 </h2>
+	<h1> StyleGAN2 with ADA를 통한 내 얼굴과 MBTI별 평균 얼굴과의 합성 결과 </h1>
 <img width="30%" src="https://user-images.githubusercontent.com/85941113/137977069-e9c33ff0-82f6-426e-bcdd-ec6e170f8d16.jpg"/>
 	<img width="30%" src="https://user-images.githubusercontent.com/85941113/137977143-309f5ca9-e0bd-482f-b0d2-a20cac0ca692.png"/>
 	<img width="30%" src="https://user-images.githubusercontent.com/85941113/137977213-a1839627-9eb9-4040-8a87-24940a0456f5.png"/>
