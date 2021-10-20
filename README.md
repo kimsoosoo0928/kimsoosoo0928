@@ -34,6 +34,7 @@
 	<img width="30%" src="https://user-images.githubusercontent.com/85941113/137977213-a1839627-9eb9-4040-8a87-24940a0456f5.png"/>
 	<h3> 'YOLO v5'를 적용한 Face Detection </h3>
 	<img width="30%" src="https://user-images.githubusercontent.com/85941113/137978151-88b4c15d-dbba-4bdc-be2b-55df88665559.jpg"/>
+	<img width="30%" src="https://user-images.githubusercontent.com/85941113/138145950-7556b1a5-d86e-4ca2-8e2c-dcb751d92956.jpg"/>
 	<img width="30%" src="https://user-images.githubusercontent.com/85941113/137978919-9f8ec5b8-85ba-4d9b-8341-316348a40c1b.png"/>
 	<h3> 여러가지 변수를 통한 전력수요량예측 </h3>
 	<img width="50%" src="https://user-images.githubusercontent.com/85941113/137979543-6c6fd982-2a06-40d2-abab-9ce24bbdd163.png"/>
