@@ -6,7 +6,7 @@
 	<h3>비트캠프 AI 인공지능 개발자 양성과정 수료</h3>
 	<h1>[Certificate]</h1>
 	<img width="80%" src="https://user-images.githubusercontent.com/85941113/137980362-7305e4a3-db93-40d5-8a95-bfeb3a39aa3e.jpg"/>
-	
+	<h1>[Stack]</h1>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimsoosoo0928&show_icons=true&theme=dark)
 	
 	
