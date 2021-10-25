@@ -1,10 +1,10 @@
 <div align=center>
 	
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=timeAuto&height=300&section=header&text=Soo%20&fontSize=90)
-	<h1>Study</h1>
+	<h1>[Study]</h1>
 	<h3>숭실대학교 전자정보공학부 졸업</h3>
 	<h3>비트캠프 AI 인공지능 개발자 양성과정 수료</h3>
-	<h1>Certificate</h1>
+	<h1>[Certificate]</h1>
 	<img width="80%" src="https://user-images.githubusercontent.com/85941113/137980362-7305e4a3-db93-40d5-8a95-bfeb3a39aa3e.jpg"/>
 	
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimsoosoo0928&show_icons=true&theme=dark)
@@ -25,7 +25,7 @@
 
 	
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza)](https://hits.seeyoufarm.com) 
-	<h1>Project</H1>
+	<h1>[Project]</H1>
 	<h3> 'GAN'을 이용한 MBTI별 남녀 연예인 평균 얼굴 생성 </h3>
 <img width="80%" src="https://user-images.githubusercontent.com/85941113/137976188-e108a074-cdd1-4cd3-bfb3-dfcc80a94d16.jpg"/>
 	<h3> 'StyleGAN2 with ADA'을 적용한 나의 얼굴과 나의 MBTI별 평균 얼굴을 이용해 새로운 얼굴 생성 </h3>
