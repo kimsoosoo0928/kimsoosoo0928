@@ -28,7 +28,7 @@
 	<h1>[Project]</H1>
 	<h3> 'GAN'을 이용한 MBTI별 남녀 연예인 평균 얼굴 생성 </h3>
 <img width="80%" src="https://user-images.githubusercontent.com/85941113/137976188-e108a074-cdd1-4cd3-bfb3-dfcc80a94d16.jpg"/>
-	<h3> 'StyleGAN2 with ADA'을 적용한 나의 얼굴과 나의 MBTI별 평균 얼굴을 이용해 새로운 얼굴 생성 </h3>
+	<h3> 'StyleGAN2 with ADA'를 적용한 나의 얼굴과 나의 MBTI별 평균 얼굴을 이용해 새로운 얼굴 생성 </h3>
 <img width="30%" src="https://user-images.githubusercontent.com/85941113/137977069-e9c33ff0-82f6-426e-bcdd-ec6e170f8d16.jpg"/>
 	<img width="30%" src="https://user-images.githubusercontent.com/85941113/137977143-309f5ca9-e0bd-482f-b0d2-a20cac0ca692.png"/>
 	<img width="30%" src="https://user-images.githubusercontent.com/85941113/137977213-a1839627-9eb9-4040-8a87-24940a0456f5.png"/>
@@ -36,7 +36,7 @@
 	<img width="30%" src="https://user-images.githubusercontent.com/85941113/137978151-88b4c15d-dbba-4bdc-be2b-55df88665559.jpg"/>
 	<img width="30%" src="https://user-images.githubusercontent.com/85941113/138145950-7556b1a5-d86e-4ca2-8e2c-dcb751d92956.jpg"/>
 	<img width="30%" src="https://user-images.githubusercontent.com/85941113/137978919-9f8ec5b8-85ba-4d9b-8341-316348a40c1b.png"/>
-	<h3> '머신러닝 ARIMA'을 적용한 전력수요량예측 </h3>
+	<h3> '머신러닝 ARIMA'를 적용한 전력수요량예측 </h3>
 	<img width="50%" src="https://user-images.githubusercontent.com/85941113/137979543-6c6fd982-2a06-40d2-abab-9ce24bbdd163.png"/>
 	<img width="40%" src="https://user-images.githubusercontent.com/85941113/137979580-6062a716-9c1e-412d-825f-7df5e22c8f79.png"/>
 	
