@@ -1,5 +1,6 @@
 <div align=center>
 	
+	
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=timeAuto&height=300&section=header&text=Soo%20&fontSize=90)
 	<h1>[Study]</h1>
 	<h3>숭실대학교 전자정보공학부 졸업</h3>
